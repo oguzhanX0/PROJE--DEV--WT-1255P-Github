@@ -1,0 +1,106 @@
+.first{
+    background-color: rgb(5, 5, 71); 
+    padding-top:25px;
+}
+
+p:hover{
+    color: aqua !important;
+}
+
+p{
+    color: white; 
+    font-size:19px; 
+    margin-top: 5px;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+c{
+    color: white; 
+    text-decoration:none; 
+    font-size: 29px;
+}
+
+.medium{
+    background-color: rgb(42, 167, 115);
+}
+
+.startbootstrap{
+    font-size:55px; 
+    margin-bottom:25px;
+    color: whitesmoke;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.Graphic{
+    font-size: 25px; 
+    text-align: center; 
+    margin-bottom: 50px; 
+    color: whitesmoke;
+}
+
+
+.ilk{
+    width:280px;
+    padding-bottom:40px;
+    padding-top:150px;
+    padding-left: 20px;
+    display: block;
+    box-sizing: border-box;
+}
+.PORTFOLIO{
+    margin-top: 40px; 
+    margin-bottom: 40px; 
+    text-align: center;
+    font-size:50px;
+}
+
+img{
+    box-sizing: border-box;
+}
+.ABOUT{
+    text-align: center; 
+    color:white; 
+    font-size:50px; 
+    margin-top: 60px; 
+    margin-bottom:35px;
+    margin-right: 60px;
+}
+.FreeDownload{
+    color: white; 
+    font-size: 25px; 
+    border: 2px solid white; 
+    width: 250px; 
+    height:60px; 
+    border-radius: 10px; 
+    text-align: center; 
+    padding-top:5px;
+}
+
+z{
+    font-size: 21px;
+    text-align: center;
+    color: white;
+}
+
+span:hover{
+    color: rgb(8, 189, 83) !important;
+}
+
+son{
+    color: white; 
+    font-size:35px;
+    padding-top:10px;
+    text-align: center;
+    display:block;
+
+}
+
+son:hover{
+    color: aqua !important;
+
+}
